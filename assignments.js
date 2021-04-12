@@ -5,11 +5,10 @@ if (randomNumber === 1) {
 } else {
     const anotherNumber = randomNumber === 5;
     console.log(`Now we have a number ${anotherNumber}`)
+}
 
-} if (randomNumber > 8) {
+if (randomNumber > 8) {
     console.log(`This number is somewhere in the middle, number ${randomNumber}`);
 } else {
     console.log(`Or something else here.`);
 }
-
-/*  */
