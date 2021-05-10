@@ -34,6 +34,6 @@ if (avgDoplhins > avgKoalas) {
 } else if (avgDoplhins === avgKoalas) {
     console.log(`The score is even (${avgKoalas} vs. ${avgDoplhins})`);
 } else {
-    console.log(`Koalas win (${avgKoalas} vs. ${avgKoalas})`);
+    console.log(`Koalas win (${avgKoalas} vs. ${avgDoplhins})`);
 }
 
