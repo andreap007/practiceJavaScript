@@ -42,7 +42,7 @@ if (avgDoplhins > avgKoalas) {
 
 // with an array
 
-const avarageScore = [0, 1, 2] / 3;
+const avarageScore = [0, 1, 2];
 
 const calcAvarage = (avarageScore) => {
 
